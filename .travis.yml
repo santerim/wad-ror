@@ -10,4 +10,5 @@ deploy:
   provider: heroku
   api_key:
     secure: EoWLPA1HTJ5l6Y6myBMzL9a3NK2djTG8drKUwOvAXVb4Y+wk9Lizn8QlTATMpVAMhwT3Y5wa8UqVVC0CMzWbUNAjSyICs5+8M5towoJi9U0TsBfrrIFYCMOsv5PxuyMU1Wvt0WZ21qVubuUW33/MjRiRIPGI3SjyWQr06YbK55Q=
+  app: protected-badlands-6697
   run: "rake db:migrate"
