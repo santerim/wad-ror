@@ -3,8 +3,6 @@ source 'https://rubygems.org'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.2'
 
-gem 'httparty'
-
 group :development, :test do
   gem 'sqlite3'
 end
@@ -47,14 +45,17 @@ gem 'bcrypt-ruby', '~> 3.1.2'
 # gem 'unicorn'
 
 group :development, :test do
-  gem 'rspec-rails', '~> 2.14.1'
   gem 'byebug'
 end
 
 group :test do
+  gem 'rspec-rails', '~> 2.14.1'
   gem 'factory_girl_rails'
   gem 'capybara'
   gem 'launchy'
+  gem 'webmock'
   gem 'simplecov', require: false
 end
 
+gem 'httparty'
+gem "rails-settings-cached", "0.3.1"
