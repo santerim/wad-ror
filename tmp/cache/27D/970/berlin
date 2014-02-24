@@ -1,0 +1,60 @@
+o: ActiveSupport::Cache::Entry:@value[o:
+Place:@idI"	6698:ET:
+@nameI"Brewbaker;	T:@statusI"Brewpub;	T:@reviewlinkI"?http://beermapping.com/maps/reviews/reviews.php?locid=6698;	T:@proxylinkI"=http://beermapping.com/maps/proxymaps.php?locid=6698&d=5;	T:@blogmapI"Ghttp://beermapping.com/maps/blogproxy.php?locid=6698&d=1&type=norm;	T:@streetI"Flensburger Str.;	T:
+@cityI"Berlin;	T:@state0:	@zip0:@countryI"Germany;	T:@phoneI"3990 5156;	T:@overallI"0;	T:@imagecountI"0;	To;;I"
+12372;	T;
+I"Eschenbraeu;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12372;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12372&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12372&d=1&type=norm;	T;I"Triftstr. 67;	T;I"Berlin;	T;0;I"
+13353;	T;I"Germany;	T;I"490304626837;	T;I"0;	T;I"0;	To;;I"
+12377;	T;
+I"Brauhaus Suedstern;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12377;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12377&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12377&d=1&type=norm;	T;I"Hasenheide 69;	T;I"Berlin;	T;0;I"
+10967;	T;I"Germany;	T;I"493069001624;	T;I"0;	T;I"0;	To;;I"
+12379;	T;
+I"Brauhaus Mitte;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12379;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12379&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12379&d=1&type=norm;	T;I"Karl-Liebknecht-Str. 13;	T;I"Berlin;	T;0;I"
+10178;	T;I"Germany;	T;I"493030878989;	T;I"73.33325;	T;I"4;	To;;I"
+12381;	T;
+I"-Brauhaus Lemke am Schloss Charlottenburg;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12381;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12381&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12381&d=1&type=norm;	T;I"Luisenplatz 1;	T;I"Berlin;	T;0;I"
+10585;	T;I"Germany;	T;I"+493030878979;	T;I"0;	T;I"0;	To;;I"
+12382;	T;
+I"$Brauhaus Lemke Hackescher Markt;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12382;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12382&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12382&d=1&type=norm;	T;I""Dircksenstr., S-Bahnbogen 143;	T;I"Berlin;	T;0;I"
+10178;	T;I"Germany;	T;I"493024728727;	T;I"86.66665;	T;I"2;	To;;I"
+12384;	T;
+I"Lindenbraeu;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12384;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12384&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12384&d=1&type=norm;	T;I"Bellevuestr. 3-5;	T;I"Berlin;	T;0;I"
+10785;	T;I"Germany;	T;I"493025751280;	T;I"0;	T;I"0;	To;;I"
+12600;	T;
+I"Hops and Barley;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12600;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12600&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12600&d=1&type=norm;	T;I"Wühlischstr 22/23;	T;I"Berlin;	T;0;I"
+10245;	T;I"Germany;	T;I"00493029367534;	T;I"0;	T;I"0;	To;;I"
+12601;	T;
+I"Schalander Hausbrauerei;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12601;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12601&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12601&d=1&type=norm;	T;I"Bänschstr. 91;	T;I"Berlin;	T;0;I"
+10247;	T;I"Germany;	T;I"+49 30 89617073;	T;I"0;	T;I"0;	To;;I"
+12813;	T;
+I"Keg and Barrel;	T;I"Homebrew;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=12813;	T;I">http://beermapping.com/maps/proxymaps.php?locid=12813&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=12813&d=1&type=norm;	T;I"41 Clementon Road;	T;I"Berlin;	T;I"NJ;	T;I"
+08009;	T;I"United States;	T;I"(856) 768-5199;	T;I"0;	T;I"0;	To;;I"
+13424;	T;
+I"Ambrosetti;	T;I"Beer Store;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=13424;	T;I">http://beermapping.com/maps/proxymaps.php?locid=13424&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=13424&d=1&type=norm;	T;I"Schillerstraße 103;	T;I"Berlin;	T;0;I"
+10625;	T;I"Germany;	T;I"49 30 312 47 26;	T;I"0;	T;I"0;	To;;I"
+14388;	T;
+I"Ollie Gators Pub;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=14388;	T;I">http://beermapping.com/maps/proxymaps.php?locid=14388&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=14388&d=1&type=norm;	T;I"2 Route 73;	T;I"Berlin;	T;I"NJ;	T;I"
+08009;	T;I"United States;	T;I"(856) 768-9400;	T;I"0;	T;I"0;	To;;I"
+14816;	T;
+I"Burley Oak Brewing Company;	T;I"Brewery;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=14816;	T;I">http://beermapping.com/maps/proxymaps.php?locid=14816&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=14816&d=1&type=norm;	T;I"10016 Old Ocean City Blvd;	T;I"Berlin;	T;I"MD;	T;I"
+21811;	T;I"United States;	T;I"(443) 513-4647;	T;I"91.666683333334;	T;I"0;	To;;I"
+15426;	T;
+I"Hopfen und Malz;	T;I"Beer Store;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=15426;	T;I">http://beermapping.com/maps/proxymaps.php?locid=15426&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=15426&d=1&type=norm;	T;I"Triftstr. 57;	T;I"Berlin;	T;0;I"
+13353;	T;I"Germany;	T;I"0176 34409478;	T;I"0;	T;I"0;	To;;I"
+15427;	T;
+I"Eschenbräu;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=15427;	T;I">http://beermapping.com/maps/proxymaps.php?locid=15427&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=15427&d=1&type=norm;	T;I"Triftstr. 67;	T;I"Berlin;	T;0;I"
+13353;	T;I"Germany;	T;I"030/462 68 37;	T;I"0;	T;I"0;	To;;I"
+15433;	T;
+I"Klein Zaches;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=15433;	T;I">http://beermapping.com/maps/proxymaps.php?locid=15433&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=15433&d=1&type=norm;	T;I"Antwerpener Str. 43;	T;I"Berlin;	T;0;I"
+13353;	T;I"Germany;	T;I"030 4535007;	T;I"0;	T;I"0;	To;;I"
+15435;	T;
+I"Zur blauen Mühle;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=15435;	T;I">http://beermapping.com/maps/proxymaps.php?locid=15435&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=15435&d=1&type=norm;	T;I"Genter Str  8 ;	T;I"Berlin;	T;0;I"
+13353;	T;I"Germany;	T;I"(030) 4657590;	T;I"0;	T;I"0;	To;;I"
+15436;	T;
+I"Tante Elli;	T;I"Beer Bar;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=15436;	T;I">http://beermapping.com/maps/proxymaps.php?locid=15436&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=15436&d=1&type=norm;	T;I"Lüderitzstr. 5;	T;I"Berlin;	T;0;I"
+13351;	T;I"Germany;	T;I"0162-6783546;	T;I"0;	T;I"0;	To;;I"
+16560;	T;
+I"Canal's of Berlin;	T;I"Beer Store;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=16560;	T;I">http://beermapping.com/maps/proxymaps.php?locid=16560&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=16560&d=1&type=norm;	T;I"8 South Route 73;	T;I"Berlin;	T;I"NJ;	T;I"
+08009;	T;I"United States;	T;I"(856) 753-1881;	T;I"0;	T;I"0;	To;;I"
+18059;	T;
+I"Brauhaus Rixdorf;	T;I"Brewpub;	T;I"@http://beermapping.com/maps/reviews/reviews.php?locid=18059;	T;I">http://beermapping.com/maps/proxymaps.php?locid=18059&d=5;	T;I"Hhttp://beermapping.com/maps/blogproxy.php?locid=18059&d=1&type=norm;	T;I"Glasower Straße 27;	T;I"Berlin;	T;0;I"D-12051;	T;I"Germany;	T;I"030-626 88 80;	T;I"0;	T;I"0;	T:@created_atf1393053478.57837:@expires_inf6.048e5
